@@ -23,7 +23,7 @@ Please read [CONTRIBUTING.md]()<!--(https://gist.github.com/PurpleBooth/b2467940
 
 ## Authors
 
-* **Elmar Bickel** - *Initial work* - [PurpleBooth](https://github.com/E3Lmo)
+* **Elmar Bickel** - *Initial work* - [E3LMO](https://github.com/E3Lmo)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
