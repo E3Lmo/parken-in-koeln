@@ -25,7 +25,7 @@ Please read [CONTRIBUTING.md]()<!--(https://gist.github.com/PurpleBooth/b2467940
 
 * **Elmar Bickel** - *Initial work* - [E3LMO](https://github.com/E3Lmo)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/E3Lmo/parken-in-koeln/contributors) who participated in this project.
 
 ## License
 
