@@ -1,25 +1,10 @@
 # parken-in-koeln
-Getting data of cologne parking houses trought python script.
 
-## Getting started
+parken-in-koeln ist ein projekt, welches die Parkhausdaten, welche die Stadt Köln über eine API zu Verfügung stellt sammelt und in einer mongoDB abspeichert. Dies ermöglicht ein Auswertung der Daten in die Vergangenheit und weiterhin ist es Möglichkeit Vorhersagen zur Parkraumsiutation zu einer bestimmten Zeit in der Zukunft zu treffen.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Vision
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Usage
-
-A step by step series of examples that tell, how you can use it
-
-## Contributing
-(work in progress)
-Please read [CONTRIBUTING.md]()<!--(https://gist.github.com/PurpleBooth/b24679402957c63ec426) -->for details on our code of conduct, and the process for submitting pull requests to us.
+Bereitstellung der Daten und Zugang zu den Rechenoperation für die Vorhersage über eine API. Entwicklung einer mobilen Anwendung für das Betriebssystem Android und iOS.
 
 ## Authors
 
