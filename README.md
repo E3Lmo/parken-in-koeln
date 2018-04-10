@@ -1,6 +1,6 @@
 # parken-in-koeln
 
-parken-in-koeln ist ein projekt, welches die Parkhausdaten, welche die Stadt Köln über eine API zu Verfügung stellt sammelt und in einer mongoDB abspeichert. Dies ermöglicht ein Auswertung der Daten in die Vergangenheit und weiterhin ist es Möglichkeit Vorhersagen zur Parkraumsiutation zu einer bestimmten Zeit in der Zukunft zu treffen.
+parken-in-koeln ist ein Projekt, welches die Parkhausdaten, welche die Stadt Köln über eine API zu Verfügung stellt sammelt und in einer mongoDB abspeichert. Dies ermöglicht ein Auswertung der Daten in die Vergangenheit und weiterhin ist es Möglich Vorhersagen zur Parkraumsiutation zu einer bestimmten Zeit in der Zukunft zu treffen.
 
 ## Vision
 
